@@ -1,4 +1,4 @@
-import colors from "../dataBases/colors.json";
+import colors from "../dataBases/colors.js";
 
 const cards = document.querySelector(".js-palette");
 

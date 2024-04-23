@@ -1,4 +1,4 @@
-import countriesArr from "../dataBases/countries.json";
+import countriesArr from "../dataBases/countries.js";
 
 const refs = {
   gallery: document.querySelector(".js-gallery"),
