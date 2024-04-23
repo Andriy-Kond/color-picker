@@ -1,1 +1,1 @@
-На github чомусь не працює handlebars
+На github чомусь не працюють імпорти з json
